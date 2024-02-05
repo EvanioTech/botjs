@@ -39,20 +39,7 @@ client.on('message', async (message) => {
 	
 
 });
-client.on('message', async (message) => {
-	
-	
-	
 
-});
-client.on('message', async (message) => {
-	
-
-});
-client.on('message', async (message) => {
-	
-	
-});
 
 
 client.initialize();
